@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Seabra-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-seabra-080ab3b7/)](https://www.linkedin.com/in/matheus-seabra-080ab3b7/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusvieiracoelho@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusvieiracoelho@gmail.com)](mailto:matheusvieiracoelho@gmail.com)
 
-Sotware engineer @ FineTune
+Sotware engineer @academicmerit
 
 
 Currently focusing on the following tech stack:
