@@ -20,4 +20,4 @@ Currently focusing on the following tech stack:
 - PostgreSQL / MongoDB
 - AWS
 
-You can reach me on twitter @matseabra or my website.
+You can reach me on twitter @matseabra or [my website](http://matheuseabra.me/#contact)
