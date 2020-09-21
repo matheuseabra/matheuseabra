@@ -8,11 +8,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Seabra-4da54f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-seabra-080ab3b7/)](https://www.linkedin.com/in/matheus-seabra-080ab3b7/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusvieiracoelho@gmail.com-4da54f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusvieiracoelho@gmail.com)](mailto:matheusvieiracoelho@gmail.com)
 
-Software Engineer @ FineTune
+I'm a software engineer @ FineTune
 
-I'm mainly focusing on the following tech stack:
+And mainly focusing on the following tech stack:
 
-- React, Vue.js
+- React
+- TypeScript
 - Node.js
 - Python
 - GraphQL
