@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Matheus 👋
 
-<!--
-**matheuseabra/matheuseabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://dribbble.com/shots/1430999-oily-circle-gif">
+  <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/1430999/dribbble_orange.gif" alt="Oil circle animation" width=55% height=55% />
+</a>
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@matseabra-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/matseabra)](https://twitter.com/matseabra) 
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Seabra-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-seabra-080ab3b7/)](https://www.linkedin.com/in/matheus-seabra-080ab3b7/) 
+[![Gmail Badge](https://img.shields.io/badge/-matheusvieiracoelho@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusvieiracoelho@gmail.com)](mailto:matheusvieiracoelho@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sotware engineer @ FineTune
+
+
+Currently focusing on the following tech stack:
+- TypeScript
+- Node.js
+- Python
+- GraphQL
+- Docker
+- PostgreSQL / MongoDB
+- AWS
+
+You can reach me on twitter @matseabra or my website.
