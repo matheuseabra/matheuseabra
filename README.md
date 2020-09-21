@@ -1,7 +1,7 @@
 ### Hi, I'm Matheus 👋
 
 <a href="https://dribbble.com/shots/1430999-oily-circle-gif">
-  <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/1430999/dribbble_orange.gif" alt="Oil circle animation" width=35% height=55% />
+  <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/1430999/dribbble_orange.gif" alt="Oil circle animation" width=40% height=55% />
 </a>
 
 [![Twitter Badge](https://img.shields.io/badge/-@matseabra-4da54f?style=flat-square&labelColor=4da54f&logo=twitter&logoColor=white&link=https://twitter.com/matseabra)](https://twitter.com/matseabra) 
@@ -9,6 +9,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-matheusvieiracoelho@gmail.com-4da54f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusvieiracoelho@gmail.com)](mailto:matheusvieiracoelho@gmail.com)
 
 Software Engineer @ FineTune
+
+I'm mainly focusing on the following tech stack:
+
+- React, Vue.js
+- Node.js
+- Python
+- GraphQL
+- Docker
+- PostgreSQL / MongoDB
+- Linux
+- AWS
+- ... and a infinity of other tools
 
 ![](https://github-readme-stats.vercel.app/api?username=matheuseabra&count_private=true&show_icons=true&theme=dark)
 
