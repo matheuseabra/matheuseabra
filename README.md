@@ -21,7 +21,7 @@ And mainly focusing on the following tech stack:
 - PostgreSQL / MongoDB
 - Linux
 - AWS
-- ... and a infinity of other tools
+- ... and an infinity of other tools
 
 ![](https://github-readme-stats.vercel.app/api?username=matheuseabra&count_private=true&show_icons=true&theme=dark)
 
