@@ -4,13 +4,10 @@
   <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/1430999/dribbble_orange.gif" alt="Oil circle animation" width=40% height=55% />
 </a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@matseabra-4da54f?style=flat-square&labelColor=4da54f&logo=twitter&logoColor=white&link=https://twitter.com/matseabra)](https://twitter.com/matseabra) 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Seabra-4da54f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-seabra-080ab3b7/)](https://www.linkedin.com/in/matheus-seabra-080ab3b7/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusvieiracoelho@gmail.com-4da54f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusvieiracoelho@gmail.com)](mailto:matheusvieiracoelho@gmail.com)
 
-I'm a software engineer @ FineTune
-
-And mainly focusing on the following tech stack:
+I'm a software engineer mainly focusing on the following tech stack:
 
 - React
 - TypeScript
