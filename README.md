@@ -1,4 +1,4 @@
-### Hi, I'm Matheus 👋
+### Hi 👋
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheuseabra&count_private=true&show_icons=true&theme=dark" alt="Oil circle animation" width=46% height=25% />
@@ -19,7 +19,4 @@ I'm a software engineer mainly focusing on the following tech stack:
 - Linux
 - AWS
 - ... and an infinity of other tools
-
-You can reach me on twitter @matseabra or [my website](http://matheuseabra.me/#contact)
-
 
