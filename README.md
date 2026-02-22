@@ -10,13 +10,15 @@
 I'm a software engineer mainly focusing on the following tech stack:
 
 - React
+- SwiftUI
 - TypeScript
 - Node.js
 - Python
-- GraphQL
 - Docker
-- PostgreSQL / MongoDB
+- PostgreSQL
 - Linux
+- Terraform
 - AWS
+- Bash
 - ... and an infinity of other tools
 
